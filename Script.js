@@ -16,8 +16,8 @@ var variableQuestion=
 var variableAnswerOne = ["A Lannister always pays his debts", "House Tully","Casterly Rock", "Greywind","The Crone", "Dragonstone", "The North", "Black", "Snow", "Jon Snow",]
 var variableAnswerTwo = ["Hear me Roar","House Stark", "Dragonstone", "ShaggyDog", "The Stranger", "King's Landing", "The Vale", "Brown", "Rivers", "Catlynn Stark",]
 var variableAnswerThree = ["Our knives our sharp", "House Baratheon", "The Wall", "Nymeria", "The Imp", "Storm's End","The Reach", "Tawny", "Flowers","Ned Stark",]
-var variableAnswerFour = ["Ours is the Fury", "House Aryn", "Dorne", "Widow's Wail", "The Mother", "Storm's End", 
-"The Twins", "Dorne", "White", "Storms", "Arya Stark",]
+var variableAnswerFour = ["Ours is the Fury", "House Aryn", "Dorne", "Widow's Wail", "The Mother",  "The Twins", "Dorne", "White", "Storms", "Arya Stark",]
+
 
 
 
